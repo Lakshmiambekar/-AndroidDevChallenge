@@ -7,7 +7,7 @@ For such identification of vehicle parking can use machine learning technique as
 a. highly secure- paid parking 
 b. safe- free parking but safe 
 c. unsafe- free but unsafe 
-Providing a safe & secure location to park the user vehicle & to trace back with the same location to the user vehicle by even providing captions is the main motto.
+Providing a safe & secure location to park the user vehicle & to trace back with the same location in offline mode to the user vehicle by even providing captions is the main motto.
 
 These techniques can be achieved by training the models through machine learning technique collecting from the database. The concept here is the user has to on the Google map enabled with the GPS location so that the trips made from A to B are stored in the cloud. We predict the parking location when the user slows down the vehicle to around 15 -20 kmpl.
 
